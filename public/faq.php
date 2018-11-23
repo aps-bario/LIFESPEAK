@@ -1,0 +1,35 @@
+<?php include('../includes/header.php'); ?>
+<?php include('../includes/leftmenu.php'); ?>
+<DIV class="content">
+   <H3>Frequently Asked Questions</H3>
+   <p><h4>Do I really need a life coach?</h4>
+   <span class="Quote">
+   That depends on how serious you are about changing your life.
+      Coaching is not about someone else telling you what you should do; it is about helping
+      you become more aware of who you really are and how to become the person you want
+      to be.&nbsp; Many people know what they want, and with a little help and reflection
+      even know how to accomplish it, but what they need is someone who will listen, challenge
+      and encourage them, so that they have the motivation to reach their goal.</span></p>
+   <p><h4>How are coaching sessions organised?</h4>
+   <span class="Quote">
+   Almost all coaching are conducted over the phone, with the client 
+   calling the coach at a pre-arranged time, for a session lasting up
+   to 45 minutes. Although some clients think that they would prefer a 
+   face to face encounter, the majority discover that a conversation over 
+   the phone enables them to be less self conscious and therefore more 
+   honest and open. Without a willingness to really understand oneself 
+   and face issues, the dramatic life changes that coaching offers are more
+   difficult to achieve.&nbsp; However, face to face sessions can be 
+   arranged where appropriate.</span></p>
+   <p><h4>How many sessions do I need?</h4>
+   <span class="Quote">Many people come to coaching because they have a particularly
+   pressing goal or situation that they want to change, and for some a single session
+   is all that is required help them getting their own thinking straight, usually because
+   they have been going over the issue for months beforehand.&nbsp; Although the results
+   of a single session can beneficial, it is often superficial as it takes a couple
+   of sessions for trust in the coaching relationship to develop, and for the client
+   to have to confidence to really share their dreams and values, and to be willing
+   to confront the areas of their life that that are holding them back. </span>
+   </p>
+</DIV> <!-- content -->
+<?php include('../includes/footer.php'); ?>
